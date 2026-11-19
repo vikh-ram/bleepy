@@ -24,4 +24,4 @@ b.contains("This is clean text")
 
 ## License
 
-MIT
+TBD

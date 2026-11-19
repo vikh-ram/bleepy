@@ -8,12 +8,12 @@ version = "0.1.0"
 description = "A simple foul language filter for Python"
 readme = "README.md"
 requires-python = ">=3.8"
-license = { text = "MIT" }
+license = { text = "TBD" }
 keywords = ["profanity", "filter", "foul language", "censorship", "text"]
 classifiers = [
     "Development Status :: 1 - Planning",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
+
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
@@ -25,9 +25,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/bleepy"
-Repository = "https://github.com/yourusername/bleepy"
-Issues = "https://github.com/yourusername/bleepy/issues"
+Homepage = "https://github.com/vikh-ram/bleepy"
+Repository = "https://github.com/vikh-ram/bleepy"
+Issues = "https://github.com/vikh-ram/bleepy/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
